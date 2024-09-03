@@ -1,0 +1,95 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+h1 {
+    color: #E9C46A;
+    text-shadow: 5px 5px 5px black;
+    background: #264653;
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Fira Code', monospace;
+
+}
+
+section {
+    background-color: #E76F51;
+    color: #13272F;
+    display: inline-block;
+    vertical-align: top;
+
+    padding: 15px;
+    box-shadow: 10px 5px 5px black;
+    margin-left: 1em;
+    max-width: 60%;
+}
+
+aside {
+    background-color: #264653;
+    display: inline-block;
+    padding: 1em;
+    box-shadow: 10px 5px 5px black;
+    color: #F4F1DE;
+    max-width: 30%;
+}
+
+
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    margin-top: 2rem ;
+    color: #F4F1DE;
+    background: #2A9D8F;
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+}
+
+strong {
+ 
+  
+    color: #E9C46A ;
+}
+
+figcaption {
+    background-color: whitesmoke;
+    text-align: center;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 100%;
+    color: black;
+}
+
+figure {
+    display: inline-block;
+    width: 80%;
+    text-align: center;
+}
+
+.lang {
+    font-size: 15px;
+
+}
+
+.profil {
+    width: 35%;
+}
+mark{
+    text-decoration: none;
+}
+
+.parcoursPro{
+    margin-bottom: 2rem;
+}
